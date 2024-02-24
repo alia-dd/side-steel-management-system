@@ -1,7 +1,3 @@
-Certainly! Below is a template for a GitHub project description for your C# application:
-
----
-
 ## Project Title: [Your Project Title]
 
 ### Description:
@@ -45,6 +41,3 @@ This project is licensed under the [License Name]. See the LICENSE file for deta
 ### Contact:
 For any inquiries or feedback, please contact [Your Name] at [Your Email Address].
 
----
-
-Feel free to customize the template to fit the specific details and requirements of your project. Good luck with your project!
