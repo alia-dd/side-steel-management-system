@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="shop_Managment_SystemModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="MInventory">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Item_Name" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Quatity" Type="Int32" />
+    <Property Name="Quality" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Size" Type="Int32" />
+    <Property Name="Cost" Type="Int32" />
+    <Property Name="Total" Type="Int32" annotation:StoreGeneratedPattern="Computed" />
+    <Property Name="Providerr" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="Availabe" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Item_location" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="shop_Managment_SystemEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="MInventories" EntityType="Self.MInventory" />
+  </EntityContainer>
+</Schema>

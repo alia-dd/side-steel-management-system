@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="shop_Managment_SystemModelStoreContainer" CdmEntityContainer="shop_Managment_SystemEntities">
+    <EntitySetMapping Name="MInventories">
+      <EntityTypeMapping TypeName="shop_Managment_SystemModel.MInventory">
+        <MappingFragment StoreEntitySet="MInventory">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Item_Name" ColumnName="Item_Name" />
+          <ScalarProperty Name="Quatity" ColumnName="Quatity" />
+          <ScalarProperty Name="Quality" ColumnName="Quality" />
+          <ScalarProperty Name="Size" ColumnName="Size" />
+          <ScalarProperty Name="Cost" ColumnName="Cost" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="Providerr" ColumnName="Providerr" />
+          <ScalarProperty Name="Availabe" ColumnName="Availabe" />
+          <ScalarProperty Name="Item_location" ColumnName="Item_location" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

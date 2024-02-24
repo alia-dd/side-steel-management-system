@@ -1,0 +1,83 @@
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Side Steel Management System.exe.config
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Side Steel Management System.exe
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Side Steel Management System.pdb
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side Steel Management System.csproj.AssemblyReference.cache
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.DashboardFr.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.Form1.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.Properties.Resources.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side Steel Management System.csproj.GenerateResource.cache
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side Steel Management System.exe.licenses
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side Steel Management System.csproj.CoreCompileInputs.cache
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side Steel Management System.csproj.CopyComplete
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side Steel Management System.exe
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side Steel Management System.pdb
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.InventoryTableFr.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.EmployeesTableFr.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.AddNewItemFr.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.PlaceOrderFr.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.UserTableFr.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.OrderDetailTableFr.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.AddNewEmployeeFr.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.AddNewUser.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.forgetPasswordFr.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.loginFr.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\EntityFramework.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\EntityFramework.xml
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.UpdateInventory.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.orderFr.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.RegisterCustomerFr.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.UpdateEmployeeFr.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.CustomerTableFr.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.transactionTableFr.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.DashBfr.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.Resources.EmployeesReportFr.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.changepass.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.InventoryReport.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\bin\Debug\stdole.dll
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.TransactionReport.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.EmployeeReport.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.OrderDetailReport.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.OrderRecieiptReport.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.IndvEmployeeReport.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.indvInventoryReport.resources
+C:\Users\meyra\Documents\cashar\c#\Side Steel Management System\Side Steel Management System\obj\Debug\Side_Steel_Management_System.CustomerReport.resources
